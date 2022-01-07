@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\bin\Debug\net5.0\Lista de Funcionarios.exe
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\bin\Debug\net5.0\Lista de Funcionarios.deps.json
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\bin\Debug\net5.0\Lista de Funcionarios.runtimeconfig.json
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\bin\Debug\net5.0\Lista de Funcionarios.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\bin\Debug\net5.0\Lista de Funcionarios.dll
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\bin\Debug\net5.0\ref\Lista de Funcionarios.dll
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\bin\Debug\net5.0\Lista de Funcionarios.pdb
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\obj\Debug\net5.0\Lista de Funcionarios.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\obj\Debug\net5.0\Lista de Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\obj\Debug\net5.0\Lista de Funcionarios.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\obj\Debug\net5.0\Lista de Funcionarios.AssemblyInfo.cs
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\obj\Debug\net5.0\Lista de Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\obj\Debug\net5.0\Lista de Funcionarios.dll
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\obj\Debug\net5.0\ref\Lista de Funcionarios.dll
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\obj\Debug\net5.0\Lista de Funcionarios.pdb
+C:\Users\HP\source\repos\Lista de Funcionarios\Lista de Funcionarios\obj\Debug\net5.0\Lista de Funcionarios.genruntimeconfig.cache
